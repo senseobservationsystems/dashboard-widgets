@@ -1,0 +1,5 @@
+The OAuth classes in this directory are based on the classes located in the 
+OAuth.php of the oauth php project [1], whose license is the MIT License [2]. 
+
+[1] http://oauth.googlecode.com/svn/code/php/
+[2] http://oauth.googlecode.com/svn/code/php/LICENSE.txt
